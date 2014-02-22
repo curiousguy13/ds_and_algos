@@ -1,0 +1,1 @@
+/*to store student details in a file and then print them*/
